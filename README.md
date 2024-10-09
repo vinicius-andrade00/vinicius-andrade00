@@ -1,0 +1,2 @@
+- Olá me chamo Vinícius, sou um apaixonado por dados e por toda engenharia de dados.
+- Meu linkedin: https://www.linkedin.com/in/vinícius-lima-de-andrade/
